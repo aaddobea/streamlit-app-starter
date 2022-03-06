@@ -1,0 +1,7 @@
+# To Scrapp Data
+bs4
+pandas
+requests_html
+
+# For the App
+streamlit
