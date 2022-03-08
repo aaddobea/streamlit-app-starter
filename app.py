@@ -10,7 +10,7 @@ st.title("WebScrapping of Lego Prices around the world 🌏")
 st.write("*by <Abby sweet>*")
 st.write([1,2,3])
 # st.write("a1,a2,a3")
-st.image("https://storage.googleapis.com/kaggle-media/competitions/open-images/guitarist.pngD")
+st.image("https://cdn.pixabay.com/photo/2022/01/15/02/07/windows-6938478__340.jpg")
 
 def launch_balloons_and_snow():
   st.ballons()
