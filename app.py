@@ -10,7 +10,7 @@ st.title("WebScrapping of Lego Prices around the world 🌏")
 st.write("*by <Abby sweet>*")
 st.write([1,2,3])
 # st.write("a1,a2,a3")
-st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fmobile%2Fbest-phone-to-buy%2F&psig=AOvVaw1aq9EOcWtkoRg2rDiNuqP5&ust=1646830170911000&source=images&cd=vfe&ved=2ahUKEwiSp4HMxrb2AhWKHjQIHXfBCUoQjRx6BAgAEAk")
+st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Refillable-Fountain-Pen-Point%2Fdp%2FB07SM9CSWT&psig=AOvVaw2YN4nsXJreuu6D3BuLeUuu&ust=1646831600876000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjWuvvLtvYCFQAAAAAdAAAAABAD")
 
 def launch_balloons_and_snow():
   st.ballons()
